@@ -1,3 +1,4 @@
+
 {
   "name": "AFK Bot",
   "bot-account": {
@@ -6,8 +7,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "theo001122-R0RD.aternos.me”,
+    "port2": 54035,
+  
     "version": "",
     "try-creative": false
   },
