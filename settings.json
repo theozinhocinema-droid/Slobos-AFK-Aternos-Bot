@@ -7,7 +7,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "theo001122-R0RD.aternos.me",
+    "ip": "theo001122-R0RD.aternos.me"
     "port2": 54035,
     "version": "1.26.1.1",
     "try-creative": false
